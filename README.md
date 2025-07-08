@@ -1,9 +1,9 @@
 # reddit-bluesky-scraper
-Asynchronous data scraper for Reddit and Bluesky using keyword filters.
+This repository contains two keyword-based scrapers for Reddit and Bluesky.
 
 # Reddit & Bluesky Scrapers
 
-This repository contains two asynchronous scrapers:
+This repository contains two scrapers:
 
 - **Reddit scraper** using PRAW to collect posts from selected subreddits based on keyword filtering.
 - **Bluesky firehose listener** using the `atproto` client to detect and save posts containing specific keywords in real time.
